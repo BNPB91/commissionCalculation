@@ -5,5 +5,4 @@ numb = float(monto);
 comision = numb*(13/100);
 redondeo = round(comision);
 
-print (f"{nombre} y monto que te corresponde por venta la comision es (13%) equivalente a {redondeo}... ");
-
+print (f"{nombre}!... El monto que te corresponde de acuerdo a la venta obtenida es de ${redondeo} (Equivalente al 13% de Comision)... ");
